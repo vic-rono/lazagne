@@ -12,7 +12,7 @@ On the Kali linux:
 `pip install PyInstaller `
 
 Pyinstaller enables you to wrap the lazagne.exe into a pdf document so that it can go unnoticed.
-The pdf should be wrapped with a pdf icon image.
+The pdf should be wrapped with a pdf icon image. To make it look like a [trojan](https://en.wikipedia.org/wiki/Trojan_horse_(computing)).
 
 
 
