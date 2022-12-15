@@ -16,6 +16,11 @@ The pdf should be wrapped with a pdf icon image. To make it look like a [trojan]
 
 
 
-`python -m PyInstaller --add-data 'sample.pdf:. --onefile --noconsole --icon image.ico download.py'`
+`python -m PyInstaller --add-data 'sample.pdf':. --onefile --noconsole --icon image.ico download.py`
+
+
+
+![lazagne](https://user-images.githubusercontent.com/61822296/207891064-efee45e0-2f6d-443f-a197-69e09cf2347e.png)
+
 
 
